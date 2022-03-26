@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá 👋 Eu Sou o Leandro!!
 ##
 - 🔭 Estou trabalhando em um portifólio divertido que me identifico 👀
 - 🌱 Estou Estudando JavaScript, HTML e CSS !
@@ -16,3 +16,5 @@
   <img aling="center" heigh="30" width="40" alt="Leo-HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 
 </div>
+
+##
